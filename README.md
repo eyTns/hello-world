@@ -6,6 +6,9 @@ just following the tutorial
 아 소박해라
 
 
+
+
+
 근데 md가 뭐하는 파일 형식이죠?
 일단은 메모장처럼 쓰고있는데
 
